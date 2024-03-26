@@ -1,0 +1,14 @@
+/* Add your custom CSS styles here */
+#container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#skillSelectionContainer {
+  margin-top: 20px;
+}
+
+#matchResult p {
+  margin-bottom: 10px;
+}
